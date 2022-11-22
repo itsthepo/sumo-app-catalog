@@ -25,18 +25,18 @@
     - *If you need assistance with deployment of the network sensor please reach out to your SE/CSM/TAM*
 
 
-### **Step 2 - Import the JSON in the folder labeled '[CloudSIEM_Network_Sensor.json](/Sumo-Network-Sesnor/CloudSIEM_Network_Sensor.json)' to your Sumo Logic Instance**:  
+### **Step 2 - Import the JSON in the folder labeled '[CloudSIEM_Network_Sensor.json](/Sumo-Network-Sensor/CloudSIEM_Network_Sensor.json)' to your Sumo Logic Instance**:  
 
 *Please note, most of the time you will have to edit the json file to find and replace the default _sourceCategory with whatever matches your environment. Due to this being a Sumo Logic Network Sensor, the SCs are not different UNLESS changed by you. If you did change the default sourceCategories then please update accordingly*. 
 
-![alt text](/Sumo-Network-Sesnor/screenshots/import.png)
+![alt text](/Sumo-Network-Sensor/screenshots/import.png)
 
 After you have opened the import window, you will be presented with a name box and a field to copy and paste the json (as shown below):
 
 *Please note that it is much easier to give it a name first and THEN copy and paste the json. Once you paste the JSON, the windows auto scrolls to the bottom of the page to be imported.*
 
 
-![alt text](/Sumo-Network-Sesnor/screenshots/copy-paste.png)
+![alt text](/Sumo-Network-Sensor/screenshots/copy-paste.png)
 
 
 
@@ -44,10 +44,10 @@ After you have opened the import window, you will be presented with a name box a
 ### **Step 3 - Enjoy!**
 
 Here is an example of the connections tab: 
-![alt text](/Sumo-Network-Sesnor/screenshots/connections.png)
+![alt text](/Sumo-Network-Sensor/screenshots/connections.png)
 
 Here is an example of the ip-investigations tab: 
-![alt text](/Sumo-Network-Sesnor/screenshots/ip-investigation.png)
+![alt text](/Sumo-Network-Sensor/screenshots/ip-investigation.png)
 
 
 
