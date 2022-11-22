@@ -11,4 +11,4 @@
 
 
 
-[^1]*could work with corelight, still need to test*
+[^1]:*could work with corelight, still need to test*
