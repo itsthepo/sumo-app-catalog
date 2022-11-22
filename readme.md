@@ -11,4 +11,4 @@
 
 
 
-[^1]:*could work with corelight, still need to test*
+[^1]: *This could work with Corelight, but we would still need to test*
